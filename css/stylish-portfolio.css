@@ -31,10 +31,11 @@ body {
 
 .text-vertical-center p {
     margin: 0 auto;
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 35%;
+    padding-right: 35%;
     font-size: 1.3em;
     font-weight: bold;
+    color: black;
 }
 
 /* Custom Button Styles */
