@@ -242,3 +242,10 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+h3{
+    color: white;
+    margin: 0 auto;
+    max-width: 600px;
+    position: absolute;
+}
