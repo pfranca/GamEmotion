@@ -31,8 +31,9 @@ body {
 
 .text-vertical-center p {
     margin: 0 auto;
-    padding: 30% ;
-    font-size: 2em;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 1.3em;
     font-weight: bold;
 }
 
